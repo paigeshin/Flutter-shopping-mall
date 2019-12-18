@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+v.0.0.1, finished until lecture 18
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
